@@ -1,0 +1,3 @@
+During this course, I have learnt make a website with github
+
+I mistakely created a new branch, but overall it went well
