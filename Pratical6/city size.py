@@ -14,7 +14,7 @@ plt.ylabel(uk_cities)
 plt.title("Population of UK cities")
 plt.xticks(rotation=30)
 plt.show()
-plt.clf()
+plt.clf()#close the figure
 
 #create a bar plot for the population of china cities
 plt.figure()
@@ -23,7 +23,7 @@ plt.ylabel(china_cities)
 plt.title("Population of China cities")
 plt.xticks(rotation=30)
 plt.show()
-plt.clf()
+plt.clf()#close the figure
 
 #sort the data for the population of cities
 uk_cities.sort()
