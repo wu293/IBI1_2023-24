@@ -1,1 +1,3 @@
-
+Question:plot a boxplot of DALYS across countries in 2019
+line:30-33
+result:The box plot shows that the distribution is relatively dispersed
