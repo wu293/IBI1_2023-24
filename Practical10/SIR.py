@@ -1,7 +1,7 @@
 mport numpy as np  
 import matplotlib.pyplot as plt  
 
-N=1000
+N=10000
 I=1
 R=0
 S=N-I-R
