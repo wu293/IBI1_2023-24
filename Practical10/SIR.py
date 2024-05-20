@@ -31,4 +31,4 @@ plt.ylabel('Number')
 plt.title('SIR Model')
 plt.legend()  
 plt.show()
-plt.clf
+plt.clf()
