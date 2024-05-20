@@ -1,1 +1,2 @@
-
+I think it is difficult for me
+It's fun to simulate random situations with probability and code
