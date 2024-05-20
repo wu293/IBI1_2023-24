@@ -11,6 +11,7 @@ plt.figure(figsize=(6, 4), dpi=150)
 plt.imshow(population, cmap='viridis', interpolation='nearest')
 plt.colorbar()
 plt.show()
+plt.clf()
 
 beta = 0.3  # infection rate
 gamma = 0.05  # recovery rate
