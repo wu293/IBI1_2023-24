@@ -1,5 +1,5 @@
-import os
 import re
+import os
 os.chdir("/Users/yun/Desktop/IBInotes")
 input_file = open('Saccharomyces_cerevisiae.R64-1-1.cdna.all.fa', 'r')
 output_file = open('duplicate_genes.fa', 'w')
