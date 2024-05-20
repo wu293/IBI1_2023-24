@@ -1,1 +1,5 @@
-
+Human vs Mouse BLOSUM score: 3137.0, identity percentage: 92.54%
+Human vs Rat BLOSUM score: 3107.0, identity percentage: 91.75%
+Mouse vs Rat BLOSUM score: 3261.0, identity percentage: 96.83%
+The greater the BLOSUM62 score and percentage identity is, the more similar their sequences are. So humans SLC6A4 gene sequence is more like the mouse than the rat.
+Mouse would be a better model organism for studying variation in the SLC6A4 gene in humans.
