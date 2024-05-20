@@ -69,6 +69,7 @@ def plot_data(counts, title):
     plt.ylabel('Frequency')
     plt.title(title)
     plt.show()
+    plt.clf()
 
 def main():
     # Parse XML using DOM
