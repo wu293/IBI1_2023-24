@@ -30,7 +30,9 @@ print(f"2019 DALYs in China: {china_data.loc[china_data['Year'] == 2019, 'DALYs'
 plt.plot(china_data['Year'], china_data['DALYs'], 'b+')
 plt.xticks(rotation=-90)  
 plt.show()
+plt.clf()
 
 year_2019_data = dalys_data[dalys_data['Year'] == 2019]
 plt.boxplot(year_2019_data['DALYs'])
 plt.show()
+plt.clf()
